@@ -1,0 +1,18 @@
+!wp-content
+wp-content/*
+wp-content/.idea
+
+
+# themes 
+!wp-content/themes
+
+wp-content/themes/*
+!wp-content/themes/storefront-child
+
+
+# plugins 
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/boibitan-rest-api
+
+
