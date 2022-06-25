@@ -8,6 +8,7 @@
     $args = [
       'post_type' => 'product',
       'posts_par_page' => -1,
+      'post_status' => 'publish',
     ];
 
     $query = new WP_Query($args);
